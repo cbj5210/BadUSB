@@ -1,0 +1,3022 @@
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Control_L
+Ascii Value: 65507
+KeyID: False
+ScanCode: 37
+MessageName: key down
+
+previous : 0.000000
+current : 1471409487.590207
+time_interval : 1471409487.590207
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: z
+Ascii Value: 122
+KeyID: False
+ScanCode: 52
+MessageName: key down
+
+previous : 1471409487.590207
+current : 1471409487.733654
+time_interval : 0.143447
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409487.733654
+current : 1471409488.236194
+time_interval : 0.502540
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409488.236194
+current : 1471409488.739482
+time_interval : 0.503288
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409488.739482
+current : 1471409488.931478
+time_interval : 0.191996
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Caps_Lock
+Ascii Value: 65509
+KeyID: False
+ScanCode: 66
+MessageName: key down
+
+previous : 1471409488.931478
+current : 1471409489.075523
+time_interval : 0.144045
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409489.075523
+current : 1471409489.300278
+time_interval : 0.224755
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409489.300278
+current : 1471409489.499296
+time_interval : 0.199018
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409489.499296
+current : 1471409489.707098
+time_interval : 0.207802
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409489.707098
+current : 1471409489.820161
+time_interval : 0.113063
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409489.820161
+current : 1471409489.963223
+time_interval : 0.143062
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409489.963223
+current : 1471409490.123678
+time_interval : 0.160455
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409490.123678
+current : 1471409490.178949
+time_interval : 0.055271
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409490.178949
+current : 1471409490.403706
+time_interval : 0.224757
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409490.403706
+current : 1471409490.587250
+time_interval : 0.183544
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409490.587250
+current : 1471409492.204340
+time_interval : 1.617090
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409492.204340
+current : 1471409492.563673
+time_interval : 0.359333
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409492.563673
+current : 1471409492.747468
+time_interval : 0.183795
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409492.747468
+current : 1471409492.923426
+time_interval : 0.175958
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409492.923426
+current : 1471409493.060286
+time_interval : 0.136860
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.060286
+current : 1471409493.561381
+time_interval : 0.501095
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.561381
+current : 1471409493.591893
+time_interval : 0.030512
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.591893
+current : 1471409493.622094
+time_interval : 0.030201
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.622094
+current : 1471409493.652855
+time_interval : 0.030761
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.652855
+current : 1471409493.684409
+time_interval : 0.031554
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.684409
+current : 1471409493.714565
+time_interval : 0.030156
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.714565
+current : 1471409493.745124
+time_interval : 0.030559
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.745124
+current : 1471409493.775663
+time_interval : 0.030539
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.775663
+current : 1471409493.806689
+time_interval : 0.031026
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409493.806689
+current : 1471409493.837054
+time_interval : 0.030365
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409493.837054
+current : 1471409493.842988
+time_interval : 0.005934
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409493.842988
+current : 1471409494.343308
+time_interval : 0.500320
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.343308
+current : 1471409494.374026
+time_interval : 0.030718
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.374026
+current : 1471409494.404592
+time_interval : 0.030566
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.404592
+current : 1471409494.434473
+time_interval : 0.029881
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.434473
+current : 1471409494.464576
+time_interval : 0.030103
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.464576
+current : 1471409494.495423
+time_interval : 0.030847
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.495423
+current : 1471409494.525683
+time_interval : 0.030260
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.525683
+current : 1471409494.556271
+time_interval : 0.030588
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.556271
+current : 1471409494.587438
+time_interval : 0.031167
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.587438
+current : 1471409494.618545
+time_interval : 0.031107
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.618545
+current : 1471409494.649242
+time_interval : 0.030697
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.649242
+current : 1471409494.679411
+time_interval : 0.030169
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.679411
+current : 1471409494.710159
+time_interval : 0.030748
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.710159
+current : 1471409494.741282
+time_interval : 0.031123
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.741282
+current : 1471409494.772536
+time_interval : 0.031254
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409494.772536
+current : 1471409494.803460
+time_interval : 0.030924
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409494.803460
+current : 1471409494.828313
+time_interval : 0.024853
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409494.828313
+current : 1471409495.329023
+time_interval : 0.500710
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.329023
+current : 1471409495.360322
+time_interval : 0.031299
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.360322
+current : 1471409495.390326
+time_interval : 0.030004
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.390326
+current : 1471409495.419590
+time_interval : 0.029264
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.419590
+current : 1471409495.450130
+time_interval : 0.030540
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.450130
+current : 1471409495.481389
+time_interval : 0.031259
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.481389
+current : 1471409495.511829
+time_interval : 0.030440
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.511829
+current : 1471409495.542757
+time_interval : 0.030928
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.542757
+current : 1471409495.573666
+time_interval : 0.030909
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409495.573666
+current : 1471409495.604157
+time_interval : 0.030491
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409495.604157
+current : 1471409495.627773
+time_interval : 0.023616
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409495.627773
+current : 1471409496.128248
+time_interval : 0.500475
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.128248
+current : 1471409496.158958
+time_interval : 0.030710
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.158958
+current : 1471409496.189833
+time_interval : 0.030875
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.189833
+current : 1471409496.219833
+time_interval : 0.030000
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.219833
+current : 1471409496.249637
+time_interval : 0.029804
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.249637
+current : 1471409496.279780
+time_interval : 0.030143
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.279780
+current : 1471409496.309978
+time_interval : 0.030198
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.309978
+current : 1471409496.340432
+time_interval : 0.030454
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.340432
+current : 1471409496.370789
+time_interval : 0.030357
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.370789
+current : 1471409496.401531
+time_interval : 0.030742
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.401531
+current : 1471409496.432030
+time_interval : 0.030499
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.432030
+current : 1471409496.462170
+time_interval : 0.030140
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.462170
+current : 1471409496.492865
+time_interval : 0.030695
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.492865
+current : 1471409496.522691
+time_interval : 0.029826
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.522691
+current : 1471409496.552531
+time_interval : 0.029840
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.552531
+current : 1471409496.583113
+time_interval : 0.030582
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.583113
+current : 1471409496.613186
+time_interval : 0.030073
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.613186
+current : 1471409496.643470
+time_interval : 0.030284
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.643470
+current : 1471409496.673877
+time_interval : 0.030407
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.673877
+current : 1471409496.704328
+time_interval : 0.030451
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.704328
+current : 1471409496.734930
+time_interval : 0.030602
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.734930
+current : 1471409496.765348
+time_interval : 0.030418
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.765348
+current : 1471409496.796195
+time_interval : 0.030847
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409496.796195
+current : 1471409496.826916
+time_interval : 0.030721
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+previous : 1471409496.826916
+current : 1471409498.053508
+time_interval : 1.226592
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: F2
+Ascii Value: 65471
+KeyID: False
+ScanCode: 68
+MessageName: key down
+
+previous : 1471409498.053508
+current : 1471409498.349161
+time_interval : 0.295653
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+previous : 1471409498.349161
+current : 1471409501.386595
+time_interval : 3.037434
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409501.386595
+current : 1471409501.689815
+time_interval : 0.303220
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+previous : 1471409501.689815
+current : 1471409502.530754
+time_interval : 0.840939
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+previous : 1471409502.530754
+current : 1471409502.618866
+time_interval : 0.088112
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+previous : 1471409502.618866
+current : 1471409502.834671
+time_interval : 0.215805
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409502.834671
+current : 1471409502.946394
+time_interval : 0.111723
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+previous : 1471409502.946394
+current : 1471409503.130376
+time_interval : 0.183982
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+previous : 1471409503.130376
+current : 1471409503.227011
+time_interval : 0.096635
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+previous : 1471409503.227011
+current : 1471409503.578498
+time_interval : 0.351487
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409503.578498
+current : 1471409504.330759
+time_interval : 0.752261
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: z
+Ascii Value: 122
+KeyID: False
+ScanCode: 52
+MessageName: key down
+
+previous : 1471409504.330759
+current : 1471409504.626920
+time_interval : 0.296161
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+previous : 1471409504.626920
+current : 1471409504.914779
+time_interval : 0.287859
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: v
+Ascii Value: 118
+KeyID: False
+ScanCode: 55
+MessageName: key down
+
+previous : 1471409504.914779
+current : 1471409505.058817
+time_interval : 0.144038
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409505.058817
+current : 1471409505.185527
+time_interval : 0.126710
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409505.185527
+current : 1471409505.338199
+time_interval : 0.152672
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409505.338199
+current : 1471409505.498399
+time_interval : 0.160200
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409505.498399
+current : 1471409505.651407
+time_interval : 0.153008
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409505.651407
+current : 1471409506.356393
+time_interval : 0.704986
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: x
+Ascii Value: 120
+KeyID: False
+ScanCode: 53
+MessageName: key down
+
+previous : 1471409506.356393
+current : 1471409506.556208
+time_interval : 0.199815
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: a
+Ascii Value: 97
+KeyID: False
+ScanCode: 38
+MessageName: key down
+
+previous : 1471409506.556208
+current : 1471409507.012179
+time_interval : 0.455971
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+previous : 1471409507.012179
+current : 1471409507.180060
+time_interval : 0.167881
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+previous : 1471409507.180060
+current : 1471409507.339721
+time_interval : 0.159661
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409507.339721
+current : 1471409507.531775
+time_interval : 0.192054
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409507.531775
+current : 1471409507.659675
+time_interval : 0.127900
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409507.659675
+current : 1471409508.059854
+time_interval : 0.400179
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.059854
+current : 1471409508.560118
+time_interval : 0.500264
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.560118
+current : 1471409508.589985
+time_interval : 0.029867
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.589985
+current : 1471409508.621023
+time_interval : 0.031038
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.621023
+current : 1471409508.650335
+time_interval : 0.029312
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.650335
+current : 1471409508.680238
+time_interval : 0.029903
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.680238
+current : 1471409508.711073
+time_interval : 0.030835
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.711073
+current : 1471409508.741979
+time_interval : 0.030906
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.741979
+current : 1471409508.771674
+time_interval : 0.029695
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.771674
+current : 1471409508.802488
+time_interval : 0.030814
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409508.802488
+current : 1471409508.833234
+time_interval : 0.030746
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+previous : 1471409508.833234
+current : 1471409509.100149
+time_interval : 0.266915
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+previous : 1471409509.100149
+current : 1471409509.172310
+time_interval : 0.072161
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: w
+Ascii Value: 119
+KeyID: False
+ScanCode: 25
+MessageName: key down
+
+previous : 1471409509.172310
+current : 1471409509.300293
+time_interval : 0.127983
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409509.300293
+current : 1471409509.363895
+time_interval : 0.063602
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: r
+Ascii Value: 114
+KeyID: False
+ScanCode: 27
+MessageName: key down
+
+previous : 1471409509.363895
+current : 1471409509.459766
+time_interval : 0.095871
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+previous : 1471409509.459766
+current : 1471409509.635361
+time_interval : 0.175595
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: h
+Ascii Value: 104
+KeyID: False
+ScanCode: 43
+MessageName: key down
+
+previous : 1471409509.635361
+current : 1471409509.771430
+time_interval : 0.136069
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409509.771430
+current : 1471409509.899393
+time_interval : 0.127963
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409509.899393
+current : 1471409510.019428
+time_interval : 0.120035
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409510.019428
+current : 1471409510.187274
+time_interval : 0.167846
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Control_L
+Ascii Value: 65507
+KeyID: False
+ScanCode: 37
+MessageName: key down
+
+previous : 1471409510.187274
+current : 1471409511.313637
+time_interval : 1.126363
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409511.313637
+current : 1471409511.802762
+time_interval : 0.489125
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409511.802762
+current : 1471409512.073791
+time_interval : 0.271029
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+previous : 1471409512.073791
+current : 1471409512.338241
+time_interval : 0.264450
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+previous : 1471409512.338241
+current : 1471409512.386623
+time_interval : 0.048382
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+previous : 1471409512.386623
+current : 1471409512.562324
+time_interval : 0.175701
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409512.562324
+current : 1471409512.650472
+time_interval : 0.088148
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+previous : 1471409512.650472
+current : 1471409512.810262
+time_interval : 0.159790
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+previous : 1471409512.810262
+current : 1471409512.858659
+time_interval : 0.048397
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+previous : 1471409512.858659
+current : 1471409513.058281
+time_interval : 0.199622
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409513.058281
+current : 1471409513.460057
+time_interval : 0.401776
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409513.460057
+current : 1471409513.737786
+time_interval : 0.277729
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409513.737786
+current : 1471409514.197995
+time_interval : 0.460209
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.197995
+current : 1471409514.227706
+time_interval : 0.029711
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.227706
+current : 1471409514.259192
+time_interval : 0.031486
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.259192
+current : 1471409514.289799
+time_interval : 0.030607
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.289799
+current : 1471409514.319278
+time_interval : 0.029479
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.319278
+current : 1471409514.349281
+time_interval : 0.030003
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.349281
+current : 1471409514.379341
+time_interval : 0.030060
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.379341
+current : 1471409514.409886
+time_interval : 0.030545
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.409886
+current : 1471409514.439975
+time_interval : 0.030089
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.439975
+current : 1471409514.470357
+time_interval : 0.030382
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.470357
+current : 1471409514.500669
+time_interval : 0.030312
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.500669
+current : 1471409514.530567
+time_interval : 0.029898
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.530567
+current : 1471409514.560653
+time_interval : 0.030086
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.560653
+current : 1471409514.592663
+time_interval : 0.032010
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.592663
+current : 1471409514.622375
+time_interval : 0.029712
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409514.622375
+current : 1471409514.643354
+time_interval : 0.020979
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409514.643354
+current : 1471409514.827676
+time_interval : 0.184322
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409514.827676
+current : 1471409514.940402
+time_interval : 0.112726
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409514.940402
+current : 1471409515.236027
+time_interval : 0.295625
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.236027
+current : 1471409515.737015
+time_interval : 0.500988
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.737015
+current : 1471409515.767072
+time_interval : 0.030057
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.767072
+current : 1471409515.797391
+time_interval : 0.030319
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.797391
+current : 1471409515.828456
+time_interval : 0.031065
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.828456
+current : 1471409515.859076
+time_interval : 0.030620
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.859076
+current : 1471409515.888748
+time_interval : 0.029672
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.888748
+current : 1471409515.918698
+time_interval : 0.029950
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.918698
+current : 1471409515.949147
+time_interval : 0.030449
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.949147
+current : 1471409515.979340
+time_interval : 0.030193
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409515.979340
+current : 1471409516.010568
+time_interval : 0.031228
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.010568
+current : 1471409516.043107
+time_interval : 0.032539
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.043107
+current : 1471409516.543622
+time_interval : 0.500515
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.543622
+current : 1471409516.573647
+time_interval : 0.030025
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.573647
+current : 1471409516.605270
+time_interval : 0.031623
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.605270
+current : 1471409516.635739
+time_interval : 0.030469
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.635739
+current : 1471409516.666937
+time_interval : 0.031198
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.666937
+current : 1471409516.698337
+time_interval : 0.031400
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.698337
+current : 1471409516.729111
+time_interval : 0.030774
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.729111
+current : 1471409516.757907
+time_interval : 0.028796
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.757907
+current : 1471409516.789083
+time_interval : 0.031176
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.789083
+current : 1471409516.819829
+time_interval : 0.030746
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.819829
+current : 1471409516.849278
+time_interval : 0.029449
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.849278
+current : 1471409516.879449
+time_interval : 0.030171
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.879449
+current : 1471409516.909825
+time_interval : 0.030376
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.909825
+current : 1471409516.939667
+time_interval : 0.029842
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.939667
+current : 1471409516.969573
+time_interval : 0.029906
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409516.969573
+current : 1471409517.000211
+time_interval : 0.030638
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.000211
+current : 1471409517.031122
+time_interval : 0.030911
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.031122
+current : 1471409517.062235
+time_interval : 0.031113
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.062235
+current : 1471409517.092722
+time_interval : 0.030487
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.092722
+current : 1471409517.122447
+time_interval : 0.029725
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.122447
+current : 1471409517.152900
+time_interval : 0.030453
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.152900
+current : 1471409517.183546
+time_interval : 0.030646
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409517.183546
+current : 1471409517.214323
+time_interval : 0.030777
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: space
+Ascii Value: 32
+KeyID: False
+ScanCode: 65
+MessageName: key down
+
+previous : 1471409517.214323
+current : 1471409517.844462
+time_interval : 0.630139
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Up
+Ascii Value: 65362
+KeyID: False
+ScanCode: 111
+MessageName: key down
+
+previous : 0.000000
+current : 1471409567.925508
+time_interval : 1471409567.925508
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Up
+Ascii Value: 65362
+KeyID: False
+ScanCode: 111
+MessageName: key down
+
+previous : 1471409567.925508
+current : 1471409568.428182
+time_interval : 0.502674
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+previous : 1471409568.428182
+current : 1471409568.972321
+time_interval : 0.544139
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409568.972321
+current : 1471409572.404226
+time_interval : 3.431905
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409572.404226
+current : 1471409572.620069
+time_interval : 0.215843
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409572.620069
+current : 1471409572.715594
+time_interval : 0.095525
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409572.715594
+current : 1471409572.923322
+time_interval : 0.207728
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: k
+Ascii Value: 107
+KeyID: False
+ScanCode: 45
+MessageName: key down
+
+previous : 1471409572.923322
+current : 1471409573.372041
+time_interval : 0.448719
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: i
+Ascii Value: 105
+KeyID: False
+ScanCode: 31
+MessageName: key down
+
+previous : 1471409573.372041
+current : 1471409573.564127
+time_interval : 0.192086
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409573.564127
+current : 1471409573.763416
+time_interval : 0.199289
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409573.763416
+current : 1471409573.908068
+time_interval : 0.144652
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: space
+Ascii Value: 32
+KeyID: False
+ScanCode: 65
+MessageName: key down
+
+previous : 1471409573.908068
+current : 1471409574.036055
+time_interval : 0.127987
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: F3
+Ascii Value: 65472
+KeyID: False
+ScanCode: 69
+MessageName: key down
+
+previous : 0.000000
+current : 1471409681.621993
+time_interval : 1471409681.621993
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+previous : 0.000000
+current : 1471409700.044943
+time_interval : 1471409700.044943
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+previous : 1471409700.044943
+current : 1471409700.164845
+time_interval : 0.119902
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+previous : 1471409700.164845
+current : 1471409700.347634
+time_interval : 0.182789
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+previous : 1471409700.347634
+current : 1471409706.653080
+time_interval : 6.305446
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+previous : 1471409706.653080
+current : 1471409706.700451
+time_interval : 0.047371
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: w
+Ascii Value: 119
+KeyID: False
+ScanCode: 25
+MessageName: key down
+
+previous : 1471409706.700451
+current : 1471409706.812393
+time_interval : 0.111942
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409706.812393
+current : 1471409706.836083
+time_interval : 0.023690
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: r
+Ascii Value: 114
+KeyID: False
+ScanCode: 27
+MessageName: key down
+
+previous : 1471409706.836083
+current : 1471409706.947751
+time_interval : 0.111668
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+previous : 1471409706.947751
+current : 1471409707.051786
+time_interval : 0.104035
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: h
+Ascii Value: 104
+KeyID: False
+ScanCode: 43
+MessageName: key down
+
+previous : 1471409707.051786
+current : 1471409707.132358
+time_interval : 0.080572
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409707.132358
+current : 1471409707.220221
+time_interval : 0.087863
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409707.220221
+current : 1471409707.340337
+time_interval : 0.120116
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471409707.340337
+current : 1471409707.492241
+time_interval : 0.151904
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+previous : 1471409707.492241
+current : 1471409708.835000
+time_interval : 1.342759
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+previous : 1471409708.835000
+current : 1471409708.938899
+time_interval : 0.103899
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+previous : 1471409708.938899
+current : 1471409709.106839
+time_interval : 0.167940
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+previous : 1471409709.106839
+current : 1471409709.186875
+time_interval : 0.080036
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+previous : 1471409709.186875
+current : 1471409709.338848
+time_interval : 0.151973
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+previous : 1471409709.338848
+current : 1471409709.395073
+time_interval : 0.056225
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+previous : 1471409709.395073
+current : 1471409709.586214
+time_interval : 0.191141
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409709.586214
+current : 1471409710.242945
+time_interval : 0.656731
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.242945
+current : 1471409710.401931
+time_interval : 0.158986
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.401931
+current : 1471409710.902527
+time_interval : 0.500596
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.902527
+current : 1471409710.933313
+time_interval : 0.030786
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.933313
+current : 1471409710.964095
+time_interval : 0.030782
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.964095
+current : 1471409710.994416
+time_interval : 0.030321
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409710.994416
+current : 1471409711.024873
+time_interval : 0.030457
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.024873
+current : 1471409711.054946
+time_interval : 0.030073
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.054946
+current : 1471409711.085325
+time_interval : 0.030379
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.085325
+current : 1471409711.115625
+time_interval : 0.030300
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.115625
+current : 1471409711.145618
+time_interval : 0.029993
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.145618
+current : 1471409711.175981
+time_interval : 0.030363
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.175981
+current : 1471409711.205644
+time_interval : 0.029663
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.205644
+current : 1471409711.235550
+time_interval : 0.029906
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409711.235550
+current : 1471409711.265415
+time_interval : 0.029865
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+previous : 1471409711.265415
+current : 1471409724.012416
+time_interval : 12.747001
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: equal
+Ascii Value: 61
+KeyID: False
+ScanCode: 21
+MessageName: key down
+
+previous : 1471409724.012416
+current : 1471409724.444163
+time_interval : 0.431747
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409724.444163
+current : 1471409724.771599
+time_interval : 0.327436
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+previous : 1471409724.771599
+current : 1471409724.907484
+time_interval : 0.135885
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: k
+Ascii Value: 107
+KeyID: False
+ScanCode: 45
+MessageName: key down
+
+previous : 1471409724.907484
+current : 1471409725.148255
+time_interval : 0.240771
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: i
+Ascii Value: 105
+KeyID: False
+ScanCode: 31
+MessageName: key down
+
+previous : 1471409725.148255
+current : 1471409725.324243
+time_interval : 0.175988
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+previous : 1471

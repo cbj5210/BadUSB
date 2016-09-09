@@ -1,0 +1,1170 @@
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: v
+Ascii Value: 118
+KeyID: False
+ScanCode: 55
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: i
+Ascii Value: 105
+KeyID: False
+ScanCode: 31
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: space
+Ascii Value: 32
+KeyID: False
+ScanCode: 65
+MessageName: key down
+
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: w
+Ascii Value: 119
+KeyID: False
+ScanCode: 25
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: r
+Ascii Value: 114
+KeyID: False
+ScanCode: 27
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: h
+Ascii Value: 104
+KeyID: False
+ScanCode: 43
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Super_L
+Ascii Value: 65515
+KeyID: False
+ScanCode: 133
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-dash
+Window's Process Name: None
+Key Pressed: Super_L
+Ascii Value: 65515
+KeyID: False
+ScanCode: 133
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-dash
+Window's Process Name: None
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-dash
+Window's Process Name: None
+Key Pressed: Escape
+Ascii Value: 65307
+KeyID: False
+ScanCode: 9
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Escape
+Ascii Value: 65307
+KeyID: False
+ScanCode: 9
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: F2
+Ascii Value: 65471
+KeyID: False
+ScanCode: 68
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: F1
+Ascii Value: 65470
+KeyID: False
+ScanCode: 67
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: F1
+Ascii Value: 65470
+KeyID: False
+ScanCode: 67
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: F1
+Ascii Value: 65470
+KeyID: False
+ScanCode: 67
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: unity-launcher
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Escape
+Ascii Value: 65307
+KeyID: False
+ScanCode: 9
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: f
+Ascii Value: 102
+KeyID: False
+ScanCode: 41
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: F2
+Ascii Value: 65471
+KeyID: False
+ScanCode: 68
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: F2
+Ascii Value: 65471
+KeyID: False
+ScanCode: 68
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Alt_L
+Ascii Value: 65513
+KeyID: False
+ScanCode: 64
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: nux input window
+Window's Process Name: None
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: cbj@cbj-System-Product-Name: ~/key_hook/pyxhook-master/dist
+Window's Process Name: gnome-terminal
+Key Pressed: space
+Ascii Value: 32
+KeyID: False
+ScanCode: 65
+MessageName: key down
+
+<class 'Xlib.protocol.request.QueryExtension'>
+<class 'Xlib.protocol.request.QueryExtension'>
+RECORD extension version 1.13
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: p
+Ascii Value: 112
+KeyID: False
+ScanCode: 33
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: w
+Ascii Value: 119
+KeyID: False
+ScanCode: 25
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: r
+Ascii Value: 114
+KeyID: False
+ScanCode: 27
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: s
+Ascii Value: 115
+KeyID: False
+ScanCode: 39
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: h
+Ascii Value: 104
+KeyID: False
+ScanCode: 43
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: l
+Ascii Value: 108
+KeyID: False
+ScanCode: 46
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: c
+Ascii Value: 99
+KeyID: False
+ScanCode: 54
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: o
+Ascii Value: 111
+KeyID: False
+ScanCode: 32
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: m
+Ascii Value: 109
+KeyID: False
+ScanCode: 58
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: e
+Ascii Value: 101
+KeyID: False
+ScanCode: 26
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: d
+Ascii Value: 100
+KeyID: False
+ScanCode: 40
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: u
+Ascii Value: 117
+KeyID: False
+ScanCode: 30
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: Return
+Ascii Value: 65293
+KeyID: False
+ScanCode: 36
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: BackSpace
+Ascii Value: 65288
+KeyID: False
+ScanCode: 22
+MessageName: key down
+
+Window Handle: .Window'>(
+Window Name: pyxhook-master
+Window's Process Name: nautilus
+Key Pressed: space
+Ascii Value: 32
+KeyID: False
+ScanCode: 65
+MessageName: key down
+
