@@ -1,0 +1,17 @@
+﻿빌드 시작: 2016-10-15 오후 11:45:00
+     1>2 노드의 "C:\HookEx\Windows_keyhook_gradu\Windows_keyhook_gradu\Windows_keyhook_gradu.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt key_hook_char.cpp
+         key_hook_char.cpp
+     1>key_hook_char.cpp(13): warning C4005: '_WIN32_WINNT' : 매크로 재정의
+                 C:\Program Files (x86)\Windows Kits\8.0\Include\shared\sdkddkver.h(196) : '_WIN32_WINNT'의 이전 정의를 참조하십시오.
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\HookEx\Windows_keyhook_gradu\Release\Windows_keyhook_gradu.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\HookEx\Windows_keyhook_gradu\Release\Windows_keyhook_gradu.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\HookEx\Windows_keyhook_gradu\Release\Windows_keyhook_gradu.lib" /MACHINE:X86 /SAFESEH Release\key_hook_char.obj
+         코드를 생성하고 있습니다.
+         코드를 생성했습니다.
+         Windows_keyhook_gradu.vcxproj -> C:\HookEx\Windows_keyhook_gradu\Release\Windows_keyhook_gradu.exe
+     1>"C:\HookEx\Windows_keyhook_gradu\Windows_keyhook_gradu\Windows_keyhook_gradu.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.81
